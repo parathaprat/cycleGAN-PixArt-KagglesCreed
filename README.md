@@ -1,6 +1,6 @@
 # Project Title : Pixel Art Generation And GameDev On Pixelated Images
-#### Pixel arts lets us express more in less, Helps in creating light weight, beautiful applications. CycleGans are used to convert realistic images to pixel art.
-#### In this project, a cycleGAN was designed and optimal parameters were found to convert images into pixelated formats. These Pixelated Images were then used to create a 2D platformer game in Unity- Kaggle's Creed
+#### Pixel arts lets us express more in less, helps in creating light weight and beautiful applications. CycleGans are used to convert realistic images to pixel art.
+#### A cycleGAN was designed and optimally trained with appropriate parameters to convert images to pixelated formats. These Pixelated Images were then used to create a 2D platformer game in Unity- Kaggle's Creed.
 
 
 ## Datasets
